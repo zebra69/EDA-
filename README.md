@@ -3,8 +3,8 @@ EDA(Exploratory Data Analyze)をやってくれるDiscord botを作ってみた�
 
 ## 基本機能（仮）
 - csvの読み込み
-  -channelにcsvファイルを送信するとそれを読み込む
-  -csvファイルを送るときに特定のコマンドを送信する？
+  - channelにcsvファイルを送信するとそれを読み込む
+  - csvファイルを送るときに特定のコマンドを送信する？
 - EDA機能
   - データセットの基本情報を表示
     - NULL数
